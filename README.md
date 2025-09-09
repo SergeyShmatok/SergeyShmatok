@@ -1,5 +1,5 @@
 ### Привет 👋, меня зовут Сергей Шматок.
-#### Я разработчик Android-приложений для мобильных устройств.
+#### Я разрабатываю Android-приложения для мобильных устройств.
 ![Я разработчик Android-приложений для мобильных устройств.](https://github.com/SergeyShmatok/SergeyShmatok/blob/7bb5509affa2b83e1b0981aa9308631b920de298/Banners/uiijehokWnBvzdSAiEI4Hr4VekKeP9MBYrJ4TIU9.png)
 
 #### Мои работы:
@@ -9,7 +9,8 @@
 
 3. [-YanMaps-](https://github.com/SergeyShmatok/-YanMaps-.git), _– приложение "карты" на базе Yandex MapKit_.
 
-4. [-MediaPlayer-](https://github.com/SergeyShmatok/-MediaPlayer-.git), _– приложение плеера с UI в стиле «Яндекс Музыки» на базе MediaPlayer (Android SDK)._
+4. [-MediaPlayer-](https://github.com/SergeyShmatok/-MediaPlayer-.git), _– приложение плеера с UI в стиле «Яндекс Музыки» на базе MediaPlayer (Android SDK).
+
 
 ____________
 
@@ -19,8 +20,8 @@ Kotlin, Jetpack Compose, MVVM, Coroutines, Flow, Dagger, REST, OkHttp, Retrofit,
 
 ____________
 
+
+Сертификаты и данные по учёбе в Нетологии: (https://github.com/SergeyShmatok/Certificates.git)
+
+
 - 🔭 Сейчас я работаю над этой страницей.
-
-
-
-
