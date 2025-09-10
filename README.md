@@ -18,10 +18,10 @@
 
 
 <!-- ____________ -->
- 
+ ____________
   ###  Инструменты:
-    Kotlin, Jetpack Compose, MVVM, Coroutines, Flow, Dagger, REST, OkHttp, Retrofit, JSON, Room,
-    Paging, Glide, Gradle, Git, Firebase, Material Design, Java, Android Studio.
+   Kotlin, Jetpack Compose, MVVM, Coroutines, Flow, Dagger, REST, OkHttp, Retrofit, JSON, Room,
+   Paging, Glide, Gradle, Git, Firebase, Material Design, Java, Android Studio.
 ____________
 
 
