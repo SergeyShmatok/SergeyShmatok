@@ -23,9 +23,9 @@
 
 ###  Инструменты:
 
-<pre><h3 align="left" style="">Kotlin, Jetpack Compose, MVVM, Coroutines, Flow, Dagger, REST, OkHttp, Retrofit, JSON, Room, 
-Paging, Glide, Gradle, Git, Firebase, Material Design, Java, Android Studio.</h3></pre>
 
+Kotlin, Jetpack Compose, MVVM, Coroutines, Flow, Dagger, REST, OkHttp, Retrofit, JSON, 
+Room, Paging, Glide, Gradle, Git, Firebase, Material Design, Java, Android Studio.
 
 ____________
 
