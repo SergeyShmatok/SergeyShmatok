@@ -9,7 +9,7 @@
 #### Я разработчик Android-приложений для мобильных устройств. -->
 
 ### Мои работы:
-1.	[-FeedPosts-](https://github.com/SergeyShmatok/-FeedPosts-.git), _– cоц. сеть с "лентой" и авторизацией_.
+1.	[-FeedPosts-](https://github.com/SergeyShmatok/-FeedPosts-.git), _– социальное приложение с "лентой" и авторизацией_.
 
 2. [-StatsView-](https://github.com/SergeyShmatok/-StatsView-.git), _– создание Custom Views_.
 
