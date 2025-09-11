@@ -23,10 +23,12 @@
 
 ###  Инструменты:
 
- <font size="5">
-<code>Kotlin, Jetpack Compose, MVVM, Coroutines, Flow, Dagger, REST, OkHttp, Retrofit, JSON, Room,
-Paging, Glide, Gradle, Git, Firebase, Material Design, Java, Android Studio.</code>
- </font>
+ 
+<code>Kotlin, Jetpack Compose, MVVM, Coroutines, Flow, Dagger, REST, OkHttp, Retrofit, JSON, Room,</code>
+
+<code>Paging, Glide, Gradle, Git, Firebase, Material Design, Java, Android Studio</code>
+ 
+
     
     
 
