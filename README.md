@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Разработчик мобильных приложений для Android</h3>
 
-![Я разработчик Android-приложений для мобильных устройств.](https://github.com/SergeyShmatok/SergeyShmatok/blob/7bb5509affa2b83e1b0981aa9308631b920de298/Banners/uiijehokWnBvzdSAiEI4Hr4VekKeP9MBYrJ4TIU9.png)
+![](https://github.com/SergeyShmatok/SergeyShmatok/blob/7bb5509affa2b83e1b0981aa9308631b920de298/Banners/uiijehokWnBvzdSAiEI4Hr4VekKeP9MBYrJ4TIU9.png)
 
 <!-- Android Mobile Application Developer -->
 <!-- ### Привет 👋, меня зовут Сергей Шматок.
@@ -22,10 +22,8 @@
 
 ###  Инструменты:
 
-<pre><big>
-  Kotlin, Jetpack Compose, MVVM, Coroutines, Flow, Dagger, REST, OkHttp, Retrofit, JSON, Room, 
-  Paging, Glide, Gradle, Git, Firebase, Material Design, Java, Android Studio.
-</big></pre>
+<pre><h3 align="left">Kotlin, Jetpack Compose, MVVM, Coroutines, Flow, Dagger, REST, OkHttp, Retrofit, JSON, Room, 
+Paging, Glide, Gradle, Git, Firebase, Material Design, Java, Android Studio.</h3></pre>
  
 ____________
 
