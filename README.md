@@ -17,22 +17,16 @@
 
 4. [-MediaPlayer-](https://github.com/SergeyShmatok/-MediaPlayer-.git), – приложение плеера с UI в стиле «Яндекс Музыки» на базе MediaPlayer.
 
-
 <!-- ____________ -->
 
 
 ###  Инструменты:
 
+<pre><big>
+  Kotlin, Jetpack Compose, MVVM, Coroutines, Flow, Dagger, REST, OkHttp, Retrofit, JSON, Room, 
+  Paging, Glide, Gradle, Git, Firebase, Material Design, Java, Android Studio.
+</big></pre>
  
-<code>Kotlin, Jetpack Compose, MVVM, Coroutines, Flow, Dagger, REST, OkHttp, Retrofit, JSON, Room,</code>
-
-<code>Paging, Glide, Gradle, Git, Firebase, Material Design, Java, Android Studio</code>
- 
-
-    
-    
-
-
 ____________
 
 
