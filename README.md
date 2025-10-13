@@ -26,7 +26,9 @@
     Kotlin, Jetpack Compose, MVVM, Coroutines, Flow, Dagger, REST, OkHttp, Retrofit, JSON, 
     Room, Paging, Glide, Gradle, Git, Firebase, Material Design, Java, Android Studio.
 
-![Sergey's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergeyShmatok&show_icons=true&theme=radical)
+
+<!-- ![Sergey's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergeyShmatok&show_icons=true&theme=radical) -->
+
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyShmatok&layout=compact) -->
 ____________
