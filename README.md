@@ -1,4 +1,5 @@
-<h1 align="center">Привет<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>, я <a href="" target="_blank">Sergey</a> </h1>
+<h1 align="center">Привет, я <a href="" target="_blank">Sergey</a>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Разработчик мобильных приложений для Android</h3>
 
 ![Изображение](https://github.com/SergeyShmatok/SergeyShmatok/blob/7bb5509affa2b83e1b0981aa9308631b920de298/Banners/uiijehokWnBvzdSAiEI4Hr4VekKeP9MBYrJ4TIU9.png "*Пишет код*")
